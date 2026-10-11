@@ -1,0 +1,6 @@
+aiohttp
+python-dotenv
+pyrogram>=2.0.0
+TgCrypto
+pytgcalls>=2.0.0
+yt-dlp
