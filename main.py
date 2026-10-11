@@ -21,7 +21,7 @@ API_ID        = int(os.getenv("API_ID", "38074255"))
 API_HASH      = os.getenv("API_HASH", "b24d8bf27bba4316a37c4bf2a7e9b9cf")
 BOT_TOKEN     = os.getenv("BOT_TOKEN", "8712882922:AAHHVhnUGPPpVSUUx511QYg-Ttc2z-i1EzA")
 ADMIN_USER_ID = int(os.getenv("ADMIN_USER_ID", "7513729138"))
-STORAGE_CH    = int(os.getenv("STORAGE_CHANNEL_ID", "---1004383572894") or "0")
+STORAGE_CH    = int(os.getenv("STORAGE_CHANNEL_ID", "-1004383572894") or "0")
 
 GROUP_IDS: list[int] = [
     int(os.getenv("GROUP_CHAT_ID_1") or os.getenv("GROUP_CHAT_ID") or "-1003710038549"),
