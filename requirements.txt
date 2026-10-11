@@ -2,5 +2,5 @@ aiohttp
 python-dotenv
 pyrogram>=2.0.0
 TgCrypto
-pytgcalls>=2.0.0
+https://github.com/pytgcalls/pytgcalls/archive/master.tar.gz
 yt-dlp
